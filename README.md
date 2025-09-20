@@ -1,1 +1,1 @@
-infra, servers, networks, automation and linux :) <3
+infra, servers, networks, automation and linux <3
